@@ -1,8 +1,4 @@
 __pycache__/
-*.pyc
-*.pkl
-*.csv
-.env
-venv/
-.idea/
-.vscode/
+Lib/
+Scripts/
+share/
