@@ -20,6 +20,8 @@ NumPy
 Pandas
 scikit-learn
 LIME
+Joblib
+Matplotlib
 
 📊 Model Details
 Algorithm: Multinomial Naive Bayes
