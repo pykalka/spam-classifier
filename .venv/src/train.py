@@ -16,7 +16,7 @@ def load_data():
 
 
 def load_or_train_model():
-    if 0>1:#os.path.exists(MODEL_PATH) and os.path.exists(VECTORIZER_PATH):
+    if os.path.exists(MODEL_PATH) and os.path.exists(VECTORIZER_PATH):
         model = joblib.load(MODEL_PATH)
         vectorizer = joblib.load(VECTORIZER_PATH)
         print("Loaded existing model")

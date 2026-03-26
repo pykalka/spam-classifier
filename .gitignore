@@ -3,3 +3,5 @@ __pycache__/
 .venv/Scripts/
 .venv/share/
 .venv/pyvenv.cfg
+.gitignore
+.idea
