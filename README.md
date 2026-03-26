@@ -39,6 +39,7 @@ cd spam-classifier
 2. Install dependencies
 pip install -r requirements.txt
 3. Run project
+cd .venv
 python main.py
 
 💡 Example
