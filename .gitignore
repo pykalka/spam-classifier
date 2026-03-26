@@ -1,5 +1,6 @@
-.venv/lib/
-.venv/Scripts/
-.venv/share/
+__pycache__/
+*.pyc
+.venv/
+venv/
 .idea/
 pyvenv.cfg
